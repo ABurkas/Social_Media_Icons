@@ -1,5 +1,7 @@
 <h1 align="center">Social Media Icons Hover Effects</h1>
 
+![Alt Text](https://github.com/ABurkas/Social_Media_Icons/blob/Main/gif.gif)
+
 <h2 align="center">Overview</h2>
 
 The "Social Media Icon Hover Effects" project is a web development project aimed at creating an engaging and visually appealing display of social media icons with dynamic hover effects. 
